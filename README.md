@@ -3,4 +3,4 @@
 - Проект построен на: HTML / CSS / Grid
 - Gulp сборка
 - Адаптированный
-- [Открыть проект]()
+- [Открыть проект](https://mrsergpron.github.io/grid-dress/)
